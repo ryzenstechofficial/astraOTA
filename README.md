@@ -1,5 +1,5 @@
-# LineageOTA
-A simple OTA REST Server for LineageOS OTA Updater System Application
+# astraOTA
+Official SRC of the OTA REST Server for astraOS's PetalUpgraderOTA Updater System Application
 
 ## Support
 
